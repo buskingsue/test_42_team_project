@@ -1,5 +1,6 @@
 # test_42_team_project
 ## 팀원
-- 이상훈
+- ai1
+- ai2
 - 강동수  
 - ai
